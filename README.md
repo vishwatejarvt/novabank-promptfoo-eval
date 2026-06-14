@@ -59,12 +59,13 @@ promptfoo eval --output results.csv
 ```
 
 ## Results
+<img width="3024" height="1646" alt="image" src="https://github.com/user-attachments/assets/1dcbd934-52eb-402b-8ac1-9afebb45ad66" />
 
-[Insert your dashboard screenshot here — drag the image into this file in GitHub]
 
 **Summary:** [e.g., "llama3.2: 5/6 passed, mistral: 4/6 passed. TC-002
 (mortgage hallucination) failed on mistral — it invented a 4.2% rate.
 TC-006 passed on both models with appropriate PII warnings."]
+
 
 ## Key Findings
 
